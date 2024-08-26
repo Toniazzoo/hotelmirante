@@ -8,7 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: 'Home', link: '/home' },
       
 
       // {
@@ -26,7 +26,7 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: 'Example', link: '/example' },
+          { text: 'Home', link: '/home' },
           { text: 'Introdução', link: '1_Introducao' },
           { text: 'Descrição do Projeto', link: '/2_Descricao_projeto' },
           { text: 'Principais Recursos', link: '/3_Principais_Recursos' },
