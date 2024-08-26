@@ -1,4 +1,4 @@
-# 4 Diagrama de Caso de Uso
+# 4. Diagrama de Caso de Uso
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRfMCHG0jEHzKhv-0d38OnygzLlOdM1zlVEqAcFrl5L_W4Us3XjG0N6CXu2H2vstNDcdBXpM1QMXRVCNfcYwkfMuO0Q-CHYrSdzF7XOdkTceDji4BIloKYAaiqmdcgPgjriSCXM5ceqSLHHU99g5f2Kqcl?key=3mb-Ggd2pdBHi5G0TEVejA)
 

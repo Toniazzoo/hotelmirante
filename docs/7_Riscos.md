@@ -1,4 +1,4 @@
-# 7 Riscos e Mitigação
+# 7. Riscos e Mitigação
 
 Existem alguns riscos que podem ocorrer no decorrer do projeto Hotel Mirante que podem impactar desde a eficácia do marketing até a experiência do usuário, com isso, buscamos algumas estratégias de mitigação que serão adotadas para minimizar ou eliminar esses riscos. Como por exemplo:
 

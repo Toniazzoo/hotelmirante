@@ -1,4 +1,4 @@
-# 2 Descrição do Projeto
+# 2. Descrição do Projeto
 
 ## 2.1 Visão Geral do Projeto
 

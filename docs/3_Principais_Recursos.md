@@ -1,4 +1,4 @@
-# 3 Principais Recursos e Funcionalidades
+# 3. Principais Recursos e Funcionalidades
 
 O sistema será responsável pela seguintes funcionalidades:
 
