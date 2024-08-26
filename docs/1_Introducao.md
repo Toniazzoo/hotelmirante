@@ -1,12 +1,12 @@
-Nome do Projeto:  Hotel Mirante
+**Nome do Projeto:**  Hotel Mirante
 
-Data: 12/07/2024
+**Data:** 12/07/2024
 
-Integrantes: Eduardo Toniazzo - Julia Sampaio - Julia Puerari da Silva - Thayná Regina de Oliveira
+**Integrantes:** Eduardo Toniazzo - Julia Sampaio - Julia Puerari da Silva - Thayná Regina de Oliveira
 
 # 1. Introdução 
 
-Nesse mercado em constante evolução, o surgimento de hoteis boutique levou a experiência de viagem a um novo[ ](http://xn--nvel-vpa.de)[nível.](http://xn--nvel-vpa.de)
+Nesse mercado em constante evolução, o surgimento de hoteis boutique levou a experiência de viagem a um novo nível.
 
 - Experiência única e personalizada para os hóspedes
 - Propriedade histórica ou culturalmente significativa como um elemento -chave do design e das comodidades
