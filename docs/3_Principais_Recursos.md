@@ -1,7 +1,5 @@
 # 3. Principais Recursos e Funcionalidades
 
-  
-
 O sistema será responsável pela seguintes funcionalidades:
 
 *   Check-in  e Check-out - O sistema pode realizar a entrada e saída dos hóspedes;
