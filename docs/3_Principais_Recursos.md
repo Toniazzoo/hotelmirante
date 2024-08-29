@@ -8,7 +8,6 @@ O sistema será responsável pela seguintes funcionalidades:
 
 ## 3.1 Requisitos Funcionais e Não Funcionais
 
-  
 
 **RF.001 - O sistema deve permitir a criação de logins de acesso ao sistema:**
 
