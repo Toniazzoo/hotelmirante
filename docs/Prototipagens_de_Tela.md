@@ -1,3 +1,1 @@
-!['Tela inicial'][def]
-
-[def]: ./img/telainicial.png
+![Tela inicial](./img/telainicial.png)
