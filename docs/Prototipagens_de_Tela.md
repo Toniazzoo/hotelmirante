@@ -27,8 +27,11 @@
 **Recuperar Senha**
 ![Recuperar senha](./img/recsenha.png)
 
+**Reservas 1**
 ![Reservas 1](./img/reservas1.png)
 
+**Reservas 2**
 ![Reservas 2](./img/reservas2.png)
 
+**Reservas 3**
 ![Reservas 3](./img/reservas3.png)

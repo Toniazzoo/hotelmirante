@@ -2,8 +2,10 @@
 
 ![Logo](./img/Logo.png)
 
-**Data:** 12/07/2024
+**Data:** 30/08/2024
 
 **Integrantes:** Eduardo Toniazzo - Julia Sampaio - Julia Puerari da Silva - Thayná Regina de Oliveira
 
-O objetivo deste documento é fornecer uma visão geral do projeto. Ele descreve a finalidade do projeto, os principais stakeholders envolvidos, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema.
+O Hotel Mirante, situado no topo de uma colina verdejante, é um refúgio aconchegante e tranquilo. Com uma vista panorâmica deslumbrante para o oceano, o hotel oferece um espetáculo diário ao pôr do sol, onde o céu se transforma em um mar de cores vibrantes.
+
+Fundado por uma família que há gerações vivia naquela região, o Mirante preserva um charme antigo, com paredes de pedra e móveis de madeira escura. Cada quarto é único, decorado com objetos que contam histórias da passado local.
