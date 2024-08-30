@@ -1,5 +1,7 @@
 **Nome do Projeto:**  Hotel Mirante
 
+![Logo](./img/Logo.png)
+
 **Data:** 12/07/2024
 
 **Integrantes:** Eduardo Toniazzo - Julia Sampaio - Julia Puerari da Silva - Thayná Regina de Oliveira
