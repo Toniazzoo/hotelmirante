@@ -24,6 +24,7 @@ export default defineConfig({
           { text: 'Cronograma', link: '/6_Cronograma' },
           { text: 'Riscos', link: '/7_Riscos' },
           { text: 'Considerações Finais', link: '/8_Consideracoes' },
+          { text: 'Protótipos de Tela', link: '/Prototipagens_de_Tela' },
         ],
       },
     ],
