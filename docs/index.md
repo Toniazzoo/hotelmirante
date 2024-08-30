@@ -1,15 +1,7 @@
----
-layout: home
+**Nome do Projeto:**  Hotel Mirante
 
-hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /example
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
----
+**Data:** 12/07/2024
+
+**Integrantes:** Eduardo Toniazzo - Julia Sampaio - Julia Puerari da Silva - Thayná Regina de Oliveira
+
+O objetivo deste documento é fornecer uma visão geral do projeto. Ele descreve a finalidade do projeto, os principais stakeholders envolvidos, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema.
